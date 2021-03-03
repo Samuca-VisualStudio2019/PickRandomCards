@@ -10,9 +10,7 @@ namespace PickRandomCards
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Vamos lá programar em C#!");
-            Console.ReadLine();
+           
         }
     }
 }
