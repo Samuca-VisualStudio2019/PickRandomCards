@@ -36,7 +36,7 @@ namespace PickRandomCards
 
         private static string RandomValue()
         {
-            // get a random number 1, 11, 12 or 13
+            // get a random number from 1 to 13
             int value = random.Next(1, 14);
             // if it's 1 return the string Ace
             if (value == 1) return "Ace";
